@@ -1,0 +1,65 @@
+[
+  {
+    "id": 3,
+    "name": "กระดาษ A4 80g",
+    "sku": "OFF-001",
+    "category": "Office Supplies",
+    "price": 120,
+    "unit": "รีม",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "ปากกาลูกลื่น Pilot",
+    "sku": "OFF-002",
+    "category": "Office Supplies",
+    "price": 15,
+    "unit": "ด้าม",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "เสื้อยืด ",
+    "sku": "CLOTH-001",
+    "category": "Clothing",
+    "price": 250,
+    "unit": "ตัว",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "น้ำดื่มบรรจุขวด 1.5L",
+    "sku": "FOOD-001",
+    "category": "Food & Beverage",
+    "price": 12,
+    "unit": "ขวด",
+    "description": ""
+  },
+  {
+    "id": 1779092114288,
+    "name": "test",
+    "sku": "f",
+    "category": "Food & Beverage",
+    "price": 1000,
+    "unit": "อัน",
+    "description": ""
+  },
+  {
+    "id": 1779097592871,
+    "name": "เก้าอี้",
+    "sku": "chair-001",
+    "category": "Other",
+    "price": 20,
+    "unit": "ตัว",
+    "description": "นั่งสบาย"
+  },
+  {
+    "id": 1779099051739,
+    "name": "ชา",
+    "sku": "cha-001",
+    "category": "Food & Beverage",
+    "price": 20,
+    "unit": "ขวด",
+    "description": ""
+  }
+]
